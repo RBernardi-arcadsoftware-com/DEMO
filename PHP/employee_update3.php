@@ -9,7 +9,7 @@ define("PHP_FILE_NAME", "employee_update.php")
 <?php 
 
 /* Set up connection for each pass through this application */
-/* Scott was here */
+/* Scott was here again*/
 $user='PHPUSER';
 $password='PASSW0RD';
 $db='<i5_system>';
